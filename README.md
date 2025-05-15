@@ -4,7 +4,7 @@ Clone the repo, you'll find an ASP.NET Core 9 Web API and a xUnit project.
 
 Create an HTTP endpoint that:
 
-1. Accepts a GET request with three optional query parameters to filter products or
+1. Accepts a GET request with four optional query parameters to filter products or
    highlight some words (separated by commas in the query parameter) in their
    description:  
    Example:  
